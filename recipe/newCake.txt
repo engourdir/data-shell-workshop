@@ -2,3 +2,5 @@ Carrot
 Soy Milk
 Rice Flour
 Chocolate
+Almond
+Sugar
