@@ -1,7 +1,6 @@
-brocolli
 flour
 milk
 sugar
 egg
-Water
-Carrot
+water
+carrot
